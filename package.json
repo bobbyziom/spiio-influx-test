@@ -1,5 +1,5 @@
 {
-  "name": "Influx TSDB test",
+  "name": "InfluxDBtest",
   "version": "0.0.1",
   "description": "Test express API for an InfluxDB TS setup",
   "main": "index.js",
