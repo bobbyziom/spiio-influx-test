@@ -54,6 +54,8 @@ exports.create = function(req, res) {
 
 		points.push(point);
 
+		count++;
+
 	}
 
 	client.writePoints(sensor, points, function (err) {
